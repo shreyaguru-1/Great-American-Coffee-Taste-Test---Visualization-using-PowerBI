@@ -26,3 +26,7 @@ The insights derived from The Great American Coffee Taste Test provide valuable 
 - The Great American Coffee Taste Test conducted by Cometeer and James Hoffmann.
 - Data collected from survey responses and blind taste test evaluations.
 - Personalized recommendations based on analysis of demographic and taste test data.
+
+
+![image](https://github.com/shreyaguru-1/Great-American-Coffee-Taste-Test/assets/166087435/11301f91-1336-48e9-89b1-da551a36e480)
+
